@@ -72,6 +72,7 @@ namespace PageObjects.WebDriver
         private IWebDriver CreateChromeDriver()
         {
             var options = new ChromeOptions();
+            options.AddArguments(new List<string>() { "headless" }); // Comment this row to disable headless mode for Chrome.
             var service = ChromeDriverService.CreateDefaultService();
             service.HideCommandPromptWindow = true;
             driver = new ChromeDriver(service, options);
