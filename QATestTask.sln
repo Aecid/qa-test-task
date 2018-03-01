@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "QATestTask\Tests.csproj", "{67528B47-FC0D-435B-A308-647A6BC90DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects", "PageObjects\PageObjects.csproj", "{941118E9-3B28-4B3C-A253-21F3891B63B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Chrome|Any CPU = Chrome|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		devsp-dtc.Stage|Any CPU = devsp-dtc.Stage|Any CPU
+		Firefox|Any CPU = Firefox|Any CPU
+		IE|Any CPU = IE|Any CPU
+		Release|Any CPU = Release|Any CPU
+		systemtest-c.Stage|Any CPU = systemtest-c.Stage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Chrome|Any CPU.ActiveCfg = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Chrome|Any CPU.Build.0 = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.devsp-dtc.Stage|Any CPU.ActiveCfg = Debug|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.devsp-dtc.Stage|Any CPU.Build.0 = Debug|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Firefox|Any CPU.ActiveCfg = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Firefox|Any CPU.Build.0 = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.IE|Any CPU.ActiveCfg = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.IE|Any CPU.Build.0 = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.systemtest-c.Stage|Any CPU.ActiveCfg = Release|Any CPU
+		{67528B47-FC0D-435B-A308-647A6BC90DE6}.systemtest-c.Stage|Any CPU.Build.0 = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Chrome|Any CPU.ActiveCfg = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Chrome|Any CPU.Build.0 = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.devsp-dtc.Stage|Any CPU.ActiveCfg = Debug|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.devsp-dtc.Stage|Any CPU.Build.0 = Debug|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Firefox|Any CPU.ActiveCfg = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Firefox|Any CPU.Build.0 = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.IE|Any CPU.ActiveCfg = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.IE|Any CPU.Build.0 = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.systemtest-c.Stage|Any CPU.ActiveCfg = Release|Any CPU
+		{941118E9-3B28-4B3C-A253-21F3891B63B4}.systemtest-c.Stage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

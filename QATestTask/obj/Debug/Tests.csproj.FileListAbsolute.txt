@@ -1,0 +1,16 @@
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\QATestTask.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\QATestTask.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\PageObjects.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\WebDriver.Support.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\PageObjects.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\WebDriver.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\WebDriver.Support.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\FluentAssertions.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\System.ValueTuple.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\FluentAssertions.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\QATestTask\bin\Debug\FluentAssertions.xml

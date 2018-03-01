@@ -1,0 +1,13 @@
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\PageObjects.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\PageObjects.pdb
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.Support.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\bin\Debug\WebDriver.Support.xml
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\obj\Debug\PageObjects.dll
+c:\Users\ace\Documents\Visual Studio 2015\Projects\QATestTask\PageObjects\obj\Debug\PageObjects.pdb

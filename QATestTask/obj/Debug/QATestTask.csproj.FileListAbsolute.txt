@@ -1,0 +1,7 @@
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\bin\Debug\QATestTask.dll
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\bin\Debug\QATestTask.pdb
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.dll
+c:\users\ace\documents\visual studio 2015\Projects\QATestTask\QATestTask\obj\Debug\QATestTask.pdb
